@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3f3b22b6-1ab2-3d8d-7086-42e806c88151"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Complex Variables with Applications",
+  "course_description": "The following topics are covered in the course: complex algebra and functions; analyticity; contour integration, Cauchy's theorem; singularities, Taylor and Laurent series; residues, evaluation of integrals; multivalued functions, potential theory in two dimensions; Fourier analysis and Laplace transforms.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.04",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
